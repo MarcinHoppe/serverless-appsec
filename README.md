@@ -1,2 +1,1 @@
-# serverless-appsec
-Sample code for the Serverless Application Security course
+# Serverless Application Security
