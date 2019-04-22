@@ -1,0 +1,12 @@
+{
+  "name": "tasks-api",
+  "version": "1.0.0",
+  "description": "",
+  "main": "api.js",
+  "license": "MIT",
+  "dependencies": {
+    "aws-sdk": "^2.441.0",
+    "claudia-api-builder": "^4.1.2",
+    "uid-safe": "^2.1.5"
+  }
+}
