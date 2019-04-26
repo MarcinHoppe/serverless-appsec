@@ -5,6 +5,7 @@
   "main": "api.js",
   "license": "MIT",
   "dependencies": {
+    "@sendgrid/mail": "^6.3.1",
     "aws-sdk": "^2.441.0",
     "claudia-api-builder": "^4.1.2",
     "uid-safe": "^2.1.5"
